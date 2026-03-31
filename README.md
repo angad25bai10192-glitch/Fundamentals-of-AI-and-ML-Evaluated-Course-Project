@@ -57,19 +57,6 @@ price-optimization/
 
 ---
 
-## Installation
-
-1. Clone the repository
-
-git clone https://github.com/your-username/price-optimization.git  
-cd price-optimization
-
-2. Install dependencies
-
-pip install -r requirements.txt
-
----
-
 ## How to Run
 
 python main.py
@@ -133,14 +120,3 @@ These graphs help in understanding how pricing affects demand and revenue.
 - Build a web interface using Streamlit  
 - Use advanced models such as Random Forest or XGBoost  
 
----
-
-## Author
-
-Angad Khanuja
-
----
-
-## License
-
-This project is intended for academic and educational purposes.
