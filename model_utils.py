@@ -25,7 +25,6 @@ def find_optimal_price(model, poly, price_min, price_max):
     return prices[idx][0], demand[idx], revenue[idx]
 
 def calculate_elasticity(model, poly, price):
-    # small change in price
     delta = 0.01
     
     p1 = price
